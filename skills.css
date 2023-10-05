@@ -1,0 +1,23 @@
+ul {
+    list-style-type:lower-roman; 
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
+  
+  ul li {
+    margin-top: -1px; /* Prevent double borders */
+    padding: 5px; /* Add some padding */
+  }
+
+  h2 {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+  }
+
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
